@@ -1,7 +1,7 @@
 # MandelbrotRenderer
 
 ### Comments
-I made this project before I used GitHub, without the goal of sharing the source code with anybody. Thus, documentation is lacking.
+I made this project before I used GitHub, without the goal in mind of sharing the source code with anybody. Thus, documentation is lacking.
 
 ### Description 
 I used this project to learn the basics of the windows API in c++ for creating windows applications. 
