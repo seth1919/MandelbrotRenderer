@@ -16,5 +16,5 @@ This project was made in Visual Studio. I recomend cloning and compiling the rep
 If you are having performance issues you can resize the window to a smaller resolution or change the detail variable in MandelbrotMain.cpp on line 19. Increasing the detail will
 increase the accuracy of the result, but increase the render time.
 
-### Credit and Resources
+### Resources
 I found this youtube tutorial helpful for learning the windows API. https://www.youtube.com/watch?v=luuyjjOxnUI&list=PL7Ej6SUky135IAAR3PFCFyiVwanauRqj3
