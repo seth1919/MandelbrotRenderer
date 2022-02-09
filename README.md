@@ -13,7 +13,7 @@ enough accuracy, no matter how far you zoom in on the border, you will always se
 
 ### How to Use
 This project was made in Visual Studio. I recomend cloning and compiling the repository from there. Use the arrow keys to pan around and the 'I' and 'O' keys to zoom in and out.
-If you are having performance issues you can resize the window to a smaller resolution or change the detail variable in MandelbrotMain.cpp on line 19. Increasing the detail will
+If you are having performance issues you can resize the window to a smaller resolution or change the variable called "detail" in MandelbrotMain.cpp on line 19. Increasing the detail will
 increase the accuracy of the result, but increase the render time.
 
 ### Resources
